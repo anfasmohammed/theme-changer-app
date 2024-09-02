@@ -1,2 +1,5 @@
-# JS PROJECT
-## THEME CHANGE APP
+# THEME CHANGE APP
+## Technologies used
+-HTML
+-TailwindCSS
+-JavaScript
